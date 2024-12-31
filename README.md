@@ -1,6 +1,5 @@
 # NetHunter
 
-## Descripción
 NetHunter es un script desarrollado en Python para escanear una red local utilizando el protocolo ARP (Protocolo de Resolución de Direcciones). Este script permite identificar los dispositivos conectados en una red, mostrando sus direcciones IP y MAC.
 
 
